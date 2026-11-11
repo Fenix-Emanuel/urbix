@@ -1,0 +1,6 @@
+.DS_Store
+# Videos pesados: quedan en disco y en Higgsfield, no en el repositorio
+gen/*.mp4
+reels/*.mp4
+# Vínculo local con Vercel
+.vercel
